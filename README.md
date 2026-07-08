@@ -118,6 +118,9 @@ The dataset typically contains:
 * Quantity
 * Discount
 * Profit
+* Market
+* Shipping Cost
+* Order Priority
 
 ### File Location
 
@@ -161,7 +164,10 @@ data/Superstore.csv
 * Monthly sales trend analysis
 * Product performance analysis
 * Customer contribution analysis
-
+* Market-wise performance analysis
+* Shipping cost analysis
+* Order priority analysis
+  
 ### Dashboard Development
 
 * KPI summary
@@ -340,13 +346,16 @@ This project aims to convert raw retail sales data into meaningful insights that
 
 The notebook investigates:
 
-* Highest revenue-generating categories
-* Most profitable product segments
-* Regional sales performance
-* Customer purchasing behavior
-* Sales seasonality and monthly trends
-* Impact of discounts on profitability
-* Top-performing products and customers
+- Highest revenue-generating categories
+- Most profitable product segments
+- Regional performance
+- Market-wise performance
+- Customer purchasing behavior
+- Sales seasonality and monthly trends
+- Impact of discounts on profitability
+- Shipping cost trends
+- Order priority contribution
+- Top-performing products and customers
 
 Detailed findings are discussed throughout the notebook in dedicated Business Insight sections.
 
