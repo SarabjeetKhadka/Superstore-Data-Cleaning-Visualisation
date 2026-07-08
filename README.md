@@ -26,7 +26,62 @@ The primary objectives of this project are:
 * Build an executive summary dashboard.
 * Generate actionable business recommendations.
 
----
+---## Project Deliverables
+
+The following deliverables are included in this project:
+
+### Data Cleaning
+
+* Missing value analysis and treatment
+* Duplicate record identification and removal
+* Data type validation and correction
+* Data quality assessment
+
+### Data Preprocessing
+
+* Data formatting and standardization
+* Date conversion and feature preparation
+* Outlier detection using the IQR method
+
+### Exploratory Data Analysis (EDA)
+
+* Sales analysis
+* Profit analysis
+* Category and sub-category performance
+* Regional and state-wise analysis
+* Customer segment analysis
+* Shipping mode analysis
+* Monthly sales trend analysis
+
+### Data Visualization
+
+* Professional business charts
+* Statistical distributions
+* Comparative performance visualizations
+* Correlation analysis
+
+### Dashboard
+
+* Executive summary dashboard
+* KPI reporting
+* Regional performance overview
+* Category and profit analysis
+* Sales trend monitoring
+
+### Business Intelligence Reporting
+
+* Business insights after every major analysis
+* Data storytelling approach
+* Strategic business recommendations
+
+### Final Deliverables
+
+* Cleaned dataset analysis
+* EDA report
+* Business dashboard
+* Key findings
+* Recommendations for decision-makers
+
 
 ## Dataset Information
 
