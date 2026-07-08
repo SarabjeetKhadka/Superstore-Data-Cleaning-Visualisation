@@ -2,3 +2,8 @@ pandas>=2.2.0
 numpy>=1.26.0
 matplotlib>=3.8.0
 seaborn>=0.13.0
+
+Pandas-	Data loading, cleaning, preprocessing, and analysis
+NumPy-	Numerical operations and statistical calculations
+Matplotlib-	Data visualization and dashboard creation
+Seaborn-	Professional statistical visualizations and EDA charts
