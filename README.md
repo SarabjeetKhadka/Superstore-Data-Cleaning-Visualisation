@@ -1,3 +1,5 @@
+note: ignore the folder structure as i haven't maintained it due to time constraints
+
 # Superstore-Data-Cleaning-Visualisation
 # Data Cleaning & Visualization of Superstore Sales Dataset
 
