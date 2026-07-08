@@ -26,7 +26,9 @@ The primary objectives of this project are:
 * Build an executive summary dashboard.
 * Generate actionable business recommendations.
 
----## Project Deliverables
+---
+
+## Project Deliverables
 
 The following deliverables are included in this project:
 
